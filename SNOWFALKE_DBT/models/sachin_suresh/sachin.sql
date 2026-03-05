@@ -4,4 +4,4 @@
     )
 }}
 
-select * from dbt_dev.dbt_sma.sachin
+select * from dbt_dev.dbt_sma.vizag_emp
